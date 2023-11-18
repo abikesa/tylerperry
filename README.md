@@ -25,7 +25,7 @@
 ```
              1. Reverence
                          \
-         3. Inference ->  2. Reverence -> 5. Inferencec -> 5. Deliverence
+         3. Inference ->  2. Reverence -> 5. Inference -> 5. Deliverence
                          /
                            4. Deliverence
 ```

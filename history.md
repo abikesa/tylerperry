@@ -6,7 +6,7 @@
                            4. Deliverence
 ```
 
-1. Fine de cicle America's film producers were entirely white males
+1. ***Fin de siecle*** America's film producers were entirely white males
 2. A correlated patriarchy over a 400 year `history` had resulted in the chitlin circuit
 3. Clusters of highly successful black performances could remain under the radar of the mainstream
 4. Such a history not only defines what is `antiquarian`, but also what is `monumental`

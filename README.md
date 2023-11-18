@@ -6,7 +6,7 @@
                       4. Ontology
 ```
 
-1. Antiquatian: [Once upon a time in Hollywood](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Hollywood)
+1. Antiquarian: [Once upon a time in Hollywood](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Hollywood)
 2. Monumental: [Cinema speculation](https://fr.wikipedia.org/wiki/The_Movie_Critic)
 3. Critical: [Revenge fantasy](https://en.wikipedia.org/wiki/Inglourious_Basterds)
 

@@ -27,7 +27,7 @@ Following Forbes declaring Tyler Perry a billionaire and the launch of his Tyler
 
 ### 3. **Narrative Comfort and Predictability**
 
-There is comfort in the familiar. Perry's works often follow predictable patterns and themes, offering a form of escapism where the resolution is assured. In a world full of uncertainties, there’s a certain appeal to consuming media that doesn't challenge but rather soothes with its predictability, even if it lacks depth or complexity.
+There is comfort in the familiar. Perry's works often follow predictable patterns and themes, offering a form of escapism where the resolution is assured. In a world full of uncertainties, there’s a certain appeal to consuming media that doesn't `challenge` but rather soothes with its predictability, even if it lacks depth or complexity.
 
 ### 4. **The Social Aspect and Communal Experience**
 

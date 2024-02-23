@@ -9,7 +9,7 @@
 
 1. Construct: Grounded in metaphysics:: identity
 2. Metaphysics: Empirically based:: numbers
-3. Physics: Decoded as tension & release:: dissonant notes for me
+3. Physics: Decoded as tension & release:: dissonance for a pessimist
 4. Song: Codified in solo, quartet, concerto, orchestral:: protagonist
 5. Art: Encoded by the indifferent, enabling, or antagonistic: `evolution`
 6. Life: Recurrence of the same cosmic & societal shit:: merit

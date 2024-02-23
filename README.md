@@ -7,12 +7,12 @@
                               /
                               3. Physics
 
-1. Construct
-2. Metaphysics
-3. Physics
-4. Song
-5. Art
-6. Life
+1. Construct: Grounded in metaphysics:: identity
+2. Metaphysics: Empirically based:: numbers
+3. Physics: With tension & release:: comfort
+4. Song: Decoded as solo, quartet, concerto, orchestral:: protagonist
+5. Art: Encoded in the indifferent, enabling, or antagonistic: `evolution`
+6. Life: Recurrence of the same cosmic & societal shit:: merit
    
 # 
 

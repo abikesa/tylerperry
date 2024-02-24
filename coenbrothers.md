@@ -9,7 +9,7 @@
 3. Physics
 4. Song
 5. Art
-   - Indifference. Chigurh was an antagonist masquerading as "the indifference of the cosmos" and one character was not having any of it... She refuses his offer of a [coin toss](https://en.wikipedia.org/wiki/No_Country_for_Old_Men) for her life, stating that he cannot pass blame to luck: the choice is his. 
+   - Indifference. Chigurh was an antagonist masquerading as "the indifference of the cosmos" and one character was not having any of it... She refuses his offer of a [coin toss](https://en.wikipedia.org/wiki/No_Country_for_Old_Men) for her life, stating that he cannot pass blame to luck: the choice is his. Ethan Coen explained that the "pitiless quality" was a "hallmark of the book, which has an unforgiving landscape and characters but is also about finding some kind of beauty without being sentimental."
    - Enabling
    - Antagonist
 6. Life

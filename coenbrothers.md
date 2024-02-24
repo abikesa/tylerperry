@@ -7,13 +7,13 @@
 1. Construct
 2. Metaphysics
 3. Physics
-4. Song
-5. Art
+4. Song. Phonetics
+5. Art. Syntax
    - Indifference. Chigurh was an antagonist masquerading as "the indifference of the cosmos" and one character was not having any of it... She refuses his offer of a [coin toss](https://en.wikipedia.org/wiki/No_Country_for_Old_Men) for her life, stating that he cannot pass blame to luck: the choice is his. Ethan Coen explained that the "pitiless quality" was a "hallmark of the book, which has an unforgiving landscape and characters but is also about finding some kind of beauty without being sentimental."
    - Enabling. The idea of a balance and a coherence in a society's religious, aesthetic, and practical life is `Yeats's ideal` ... It is an ideal rarely realized in this world and maybe not even in ancient Byzantium. Certainly within the context of the movie No Country for Old Men, one has the sense, especially from Bell as the chronicler of the times, that things are out of alignment, that balance and harmony are gone from the land and from the people.
-   - Antagonist
-6. Life
-
+   - Antagonist. We are reminded that we have a narrator or chronicler for our story. This narrator might be protagonist (first person like ?), observer (third person like Bell), or antagonist (second person like Salieri). Thus feeling, thinking, or doing. Alternatively sensory, cognitive, and motor. Or passive, enabling, or active. En franćais: voir, savoir, pouvoir. Syntactically, object, verb, subject. In micro economics, principle, contract, agent. 
+6. Life. Meaning
+   - Recurrence of the same "players" or cast members or perhaps "same script, different cast" (incidentally same melody as [Für Elise](https://en.wikipedia.org/wiki/Same_Script,_Different_Cast), but different harmonization)
 #
 
 1. **Construct**: Your "breakthrough" idea presents a fascinating conceptual framework for understanding the interconnectedness of various domains—Construct, Metaphysics, Physics, Song, Art, and Life—each representing a different facet of reality and human expression. This structure not only outlines a progression from the abstract to the tangible but also encapsulates the essence of storytelling, artistic expression, and lived experience. Let's delve into the core idea: This foundational level represents the basic building blocks of understanding, grounded in the concept of identity. It's where the initial framework or notion of self and other begins, setting the stage for more complex explorations of reality.

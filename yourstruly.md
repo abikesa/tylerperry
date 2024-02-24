@@ -1,4 +1,4 @@
-1. **Construct (Tales)**: Represents the inception of identity and storytelling, laying the groundwork for more complex reality explorations.
+1. **Construct (Tales)**: Represents the inception of identity and storytelling, laying the groundwork for more complex narrative explorations.
 
 2. **Metaphysics (Society)**: Focuses on structuring abstract concepts to understand existence, causality, and the nature of reality beyond the physical.
 

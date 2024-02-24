@@ -1,0 +1,9 @@
+- Money Talks (1997)
+- It was engaging enough
+- But the second half sucks
+- The melody and plot just doesn't work
+- However, dialogue here & there includes rich chord qualities
+- Chris Rock masquerading as a Half-Italian hollywood heir is hilarious when offered `Mozarella Omellet` for breakfast
+- Quickly ad-libing "and please add some Italian grits on that" really floored me
+- Anyways, this is all diverting, escapist, sentimental bs with absolutely no reference to the three recurrent themes: fatalism, moralism, and agency
+- We might say each of the three is hinted at (rejection of chaos of life at all costs, chiefly one that eschews an amoral approach to life, and relies on personal charm and even a networks)

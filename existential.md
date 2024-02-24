@@ -1,3 +1,10 @@
+                1. Construct
+                            \
+          2. Metaphysics -> 4. Voice -> 5. Reharm -> 6. Bounce
+                            /
+                            3. Physics
+
+
 ### Construct
 
 The portrayal of the Joker by Heath Ledger in "The Dark Knight" (2008) and Anton Chigurh by Javier Bardem in "No Country for Old Men" (2007) serves as a modern construct of chaos and anarchy in cinema. Ledger's Joker is the embodiment of anarchic chaos, seeking to dismantle the social order of Gotham, while Chigurh represents a cold, deterministic chaos, acting as an agent of fate. These characters are constructed as antithetical forces to their respective protagonists, challenging societal norms and individual moralities through their actions and ideologies.

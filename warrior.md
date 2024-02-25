@@ -1,8 +1,8 @@
-                     1. Creativity
+                           1. Tale
                                   \
-               2. Expectations -> 4. Voice -> 5. Reharms 6. Bounce
+                    2. Society -> 4. Fatalism -> 5. Responsibilty 6. Agency
                                   /
-                                  3. Landscape
+                                  3. Cosmos
 
 
 The concept of the Torah-study exemption from military service, and the discussion around warrior versus priestly morality, delves into a complex intersection of religious duty, societal obligation, and ethical discourse. This exemption, primarily found within the context of Israeli society, is rooted in the Talmudic principle that the study of Torah is a divine service that protects and sustains the world, paralleling the physical protection provided by military service.

@@ -15,3 +15,6 @@ Marilyn Monroe's famous assertion, `If you can't handle me at my worst, then you
 
 By intertwining the metaphor of musical harmony with the complexities of human attraction and emotional depth, we gain insights into the dynamics between initial simplicity and enduring complexity. Just as in music, where the journey from simple triads to intricate harmonies enriches the experience, in life and relationships, true depth and connection are found beyond the surface. Embracing this complexity—acknowledging both the best and worst—leads to a more profound understanding and appreciation of the intricate symphony of human experience.
 
+#
+
+See, there's [three kinds of people](https://en.wikipedia.org/wiki/Team_America:_World_Police): dicks, pussies, and assholes. Pussies think everyone can get along, and dicks just want to fuck all the time without thinking it through. But then you got your assholes, Chuck. And all the assholes want us to shit all over everything! So, pussies may get mad at dicks once in a while, because pussies get fucked by dicks. But dicks also fuck assholes, Chuck. And if they didn't fuck the assholes, you know what you'd get? You'd get your dick and your pussy all covered in shit!

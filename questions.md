@@ -1,3 +1,10 @@
+                           1. Construct
+                                       \
+                     2. Metaphysics -> 4. Song -> 5. Art -> 6. Life
+                                       /
+                                        3. Physics
+
+
 
 In the intricate dance of human relations and societal dynamics, individuals often find themselves navigating through the roles of three archetypal forces. These forces, akin to the elements in a complex musical composition, play pivotal roles in shaping our experiences and interactions. 
 

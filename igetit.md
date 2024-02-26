@@ -11,7 +11,7 @@
 5. Art: Harmonies
 6. Life: Recurrence
 
-# Symphony (70s) to [Cacophony](https://en.wikipedia.org/wiki/Boogie_Nights) (80s)
-   - Indifferent: arrested here by drugs, hedonism, and a quick buck from the industry
-   - Responsibility: morally irresponsible with spouses, children, and broader human condition that demands confrontation rather than escape from cosmic-existential issue
-   - Antagonism: ultimately from so many directions given long-standing irresponsibility
+# Symphony to [Cacophony](https://en.wikipedia.org/wiki/Boogie_Nights)  
+   - Indifferent: arrested here by drugs, hedonism, and a quick buck from the industry `cosmic`
+   - Responsibility: morally irresponsible with spouses, children, and broader human condition that demands confrontation rather than escape from cosmic-existential issue `social`
+   - Antagonism: ultimately from so many directions given long-standing irresponsibility `biological`

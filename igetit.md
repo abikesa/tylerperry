@@ -12,6 +12,6 @@
 6. Life: Recurrence
 
 # Symphony to [Cacophony](https://en.wikipedia.org/wiki/Boogie_Nights)  
-   - Indifferent/`pussies`: arrested here by drugs, hedonism, and a [quick buck from the industry](https://www.youtube.com/watch?v=JeW0Cm77Vq0) `cosmic`
-   - Responsibility/`assholes`: morally irresponsible with spouses, children, and broader human condition that demands confrontation rather than escape from cosmic-existential issue `social`
+   - Infantile/`pussies`: arrested here by drugs, hedonism, and a [quick buck from the industry](https://www.youtube.com/watch?v=JeW0Cm77Vq0) `cosmic`
+   - [Responsibility](https://www.youtube.com/watch?v=p1djbPHiyOM)/`assholes`: morally irresponsible with spouses, children, and broader human condition that demands confrontation rather than escape from cosmic-existential issue `social`
    - Antagonism/`dicks`: ultimately from so many directions given long-standing irresponsibility `biological`

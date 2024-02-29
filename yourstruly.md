@@ -12,9 +12,14 @@
 
 ### Insights on AGI and Society
 
-The societal concern over artificial general intelligence (AGI) parallels Chief Bromden's experiences in "One Flew Over the Cuckoo's Nest," reflecting fears of control and manipulation. This analogy highlights the importance of addressing ethical and existential risks alongside technological development, ensuring humanity's precedence in future decisions regarding increasingly intelligent machines.
+The societal concern over artificial general intelligence (AGI) parallels Chief Bromden's experiences in "One Flew Over the Cuckoo's Nest," reflecting fears of control and manipulation. This analogy highlights the importance of addressing ethical and `existential` risks alongside technological development, ensuring humanity's precedence in future decisions regarding increasingly intelligent machines.
 
 ### Conclusion
 
 This framework and its analysis offer a profound view of the interconnectedness across various domains, emphasizing the role of art and narrative in reflecting and shaping our understanding of the world. It calls for thoughtful consideration and regulation of emerging technologies like AGI, advocating for a balanced approach to technological advancement and societal well-being.
  
+###
+
+- Fate/`Id`: [Ragnarok](https://www.biblegateway.com/passage/?search=Revelation%2014&version=KJV) & Boot (Eternal Recurrence)
+- Morality/Responsibility/`Superego`: [Tyler Perry](https://www.youtube.com/watch?v=1tx_vs8arF0)
+- Agency/`Ego`: Quentine Tarantino

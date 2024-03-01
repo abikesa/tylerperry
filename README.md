@@ -1,4 +1,4 @@
-
+> Scott Tobias, writing for The Guardian on the film's 80th anniversary, calls it "the jewel of Hollywood's Golden Age", and the best example of the system of film-making working: [due not to a single artistic genius](https://en.wikipedia.org/wiki/Casablanca_(film)#Enduring_popularity) but a combination of talented writing, set design, music, casting, supporting characters, and production
 
 
                   1. Construct

@@ -3,6 +3,8 @@
                     2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
                                      /
                                      3. Diatonic
+
+
 1. Root
    - If mother is `root`
    - Father is `third` harmonic

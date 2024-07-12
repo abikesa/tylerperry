@@ -1,11 +1,12 @@
 > *Fig. 2 Tribes decode heritage in unique ways.* But the artists from these different heritages also might emerge with very different ways to encode what their ancestors have seen, remembered, and felt. Some with levity, others with gravity.
 
+```sh
 1. Millenia-of-Experiences
                           \
        2. Our-Heritage -> 4. Collective-Unconscious -> 5. Decode-Priests -> 6. Apply-Thrive
                           /
                           3. Artifacts-Rituals 
-
+```
 
 - Critique
    - If mother is `root`

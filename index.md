@@ -82,7 +82,7 @@ Choosing between re-weighting and re-parametrizing depends on the specific chall
                            3. Mean
 ```
 
-> _Fig. 2 Black Christian Women._ Tyler Perry is a fascinating case study. Despite constant critical dismissal, he’s one of the most successful filmmakers in America, consistently working with mid-range budgets but managing to gross more than $1 billion. His fan base is one Hollywood routinely ignores—chiefly Black, Christian women—and Perry makes his films with his proud Christian values at the forefront. 
+> _Fig. 2 [Black Christian Women](https://www.thedailybeast.com/obsessed/divorce-in-the-black-review-tyler-perrys-worst-movie-yet)._ Tyler Perry is a fascinating case study. Despite constant critical dismissal, he’s one of the most successful filmmakers in America, consistently working with mid-range budgets but managing to gross more than $1 billion. His fan base is one Hollywood routinely ignores—chiefly Black, Christian women—and Perry makes his films with his proud Christian values at the forefront. 
 
 You've raised an excellent point. When generating a predictive equation for specific case scenarios, the focus indeed shifts from population-level inference to individual predictions. Here's why re-weighting might be less suitable in this context and why re-parametrization or other model adjustments might be more appropriate:
 

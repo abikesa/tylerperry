@@ -117,12 +117,15 @@ When generating predictive equations for case scenarios, such as predicting pati
 Re-weighting is a valuable technique for addressing sampling biases and ensuring representative population-level inferences. However, when the goal is to generate predictive equations for specific scenarios, such as predicting patient outcomes, re-weighting falls short. Re-parametrization and other model adjustments are more appropriate as they directly enhance the model's ability to make accurate and reliable predictions for individual cases. Emphasizing techniques that improve model fit, interpretability, and convergence will lead to better outcomes in personalized predictive modeling.
 
 ```sh
-            1. Food
-                   \
-       2. Teeth -> 4. Enzymes -> 5. Absorption -> 6. Nutrition
-                   /
-                    3. Gut
+                    1. Food-Pessimism
+                                      \
+       2. Teeth-Beyond.Good & Evil -> 4. Enzymes-Collective.Unconscious -> 5. Absorption-Science -> 6. Nutrition-Morality
+                                      /
+                                      3. Gut-Robustness
 ```
+
+> _Fig. 3 [Optimism firmly rooted within `Good & Evil`](https://www.thedailybeast.com/obsessed/divorce-in-the-black-review-tyler-perrys-worst-movie-yet)._ Space for nuance is desperately needed. That’s never been Perry’s specialty—his most egregious movie, Temptations: Confessions of a Marriage Counselor, punished its main character with HIV for having an affair. But Divorce in the Black is practically crying out for it. Dallas is a thinly sketched cartoon villain, a constantly raised voice that spits venom. Ava, meanwhile, is a benevolent angel transported directly from heaven itself. Perry’s script never allows an opportunity for its characters to be anything but symbols of good and evil, and that’s all Ava and Dallas end up being. Perry’s moral code is frustratingly rigid: If someone does bad things, they must be a bad person. There’s no room for negotiation or nuance. It’s not only holier-than-thou—it’s also boring writing. 
+
 
 The Coen Brothers have a distinctive style that attracts a diverse and dedicated fan base. However, certain demographic trends can be discerned within their audience. Here's a speculative profile:
 

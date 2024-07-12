@@ -1,26 +1,22 @@
-                              1. Root
-                                     \
-                    2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
-                                     /
-                                     3. Diatonic
+> *Fig. 2 Tribes decode heritage in unique ways.* But the artists from these different heritages also might emerge with very different ways to encode what their ancestors have seen, remembered, and felt. Some with levity, others with gravity.
+
+1. Millenia-of-Experiences
+                          \
+       2. Our-Heritage -> 4. Collective-Unconscious -> 5. Decode-Priests -> 6. Apply-Thrive
+                          /
+                          3. Artifacts-Rituals 
 
 
-1. Root
+- Critique
    - If mother is `root`
    - Father is `third` harmonic
    - Tyler is `17th` harmonic
       - No where in his oeuvre do we encounter a Neapolitan chord to "anchor" this dissonance in "ideal" `ii-V-i` chord progression
       - Beethoven offers us a monumental example in 1st movement of Moonlight Sonata with a [iv/♭II - V7 - i](https://en.wikipedia.org/wiki/Neapolitan_chord#Classical_period) (you may think of `♭II` as a 17th (i.e., 16+1)
       - Thus, in a sense, and in essence, we have the most prevalent cadence in all western music: `II-V-i`)
-2. Pentatonic
-3. Diatonic
-4. Chromatic
-5. Temperament
-6. Expression
-   - Withdrawn
-      - Arrested in the niche wherein he found solace & commercial success in
-      - Madea in drag is his mother or aunt, wherein he hideth
-   - Engaged
-      - Never with the `zeitgeist` 
-   - Imposition
-      - Moral values 
+- Positive
+   - That’s an interesting comparison. [Tyler Perry’s films](https://abikesa.github.io/music/#personal-5-6) often use the church as a cornerstone of hope, with the pastor delivering uplifting messages, surrounded by soulful music that adds emotional gravity to the scenes. His films can feel like a vibrant church service, aiming to inspire and uplift audiences.
+
+   - On the other hand, the `Coen Brothers` often depict rabbis with a touch of absurdity. Their rabbis may deliver messages that are intentionally unconvincing or perplexing, accompanied by chanting that adds to the humor and irony of the situation. This approach reflects their unique style, which often blends dark comedy with philosophical musings, leaving audiences both amused and contemplative.
+
+   - These contrasting styles highlight how different filmmakers use religious figures and settings to evoke varying emotions and themes in their storytelling.

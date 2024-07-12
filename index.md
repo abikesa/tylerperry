@@ -25,7 +25,7 @@
 
    - These contrasting styles highlight how different filmmakers use religious figures and settings to evoke varying emotions and themes in their storytelling.
 
-### 5, 6
+### Fit 5, 6
 
 When deciding whether to re-weight or re-parametrize, it's essential to understand the specific context and goals of your analysis. Here are the key differences and when you might choose one approach over the other:
 

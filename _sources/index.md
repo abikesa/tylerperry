@@ -28,9 +28,9 @@ _The House of Suntori_ represents the epitome of Japanese whisky craftsmanship, 
 
 > *We are such stuff as dreams are made on*        
 > *And our little life is [rounded with a sleep](https://www.gutenberg.org/files/23042/23042-h/23042-h.htm)*   
-> *Fortunately, we have [music](https://www.youtube.com/watch?v=i1MXYDkXZAE) to fall bach to* 
-> *GPT representation of life is about `propensities` (e.g. of black women to watch a Tyler Perry film)*
-> *Propensity to see, recall, feel, kumbaya, leverage, will*
+> *Fortunately, we have [music](https://www.youtube.com/watch?v=i1MXYDkXZAE) to fall bach to*                    
+> *GPT representation of life is about `propensities` (e.g. of black women to watch a Tyler Perry film)*              
+> *Propensity to see, recall, feel, kumbaya, leverage, will*        
 
     1. Multimodal, lifetime of experience
                                          \

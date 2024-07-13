@@ -17,7 +17,7 @@ height: 1
 width: 1
 ---
 _Collective Unconcious as GPT_. Our collective unconscious is merely spliced-up fragments of our experiences, memories, and associated emotions. These bits become predictors of further experiences, memories, and associated emotions, and are parametrized and weighted in our cultural psyche.
-````
+```
 
 Sure, I can link the contents you've provided to "A Serious Man" by the Coen Brothers. The film is a rich tapestry of themes, metaphors, and existential inquiries that resonate deeply with the concept of the collective unconscious and its Dionysian elements.
 
@@ -98,6 +98,28 @@ Absolutely, the neighborly frenzy in "A Serious Man" adds another layer to the c
     - **Film Connection:** Larry's scientific mindset, which relies on parameters and algorithms to make sense of the world, clashes with the binary unpredictability of human behavior. The neighbors' actions cannot be easily quantified or predicted, illustrating the limitations of a purely rational approach to life's complexities.
 
 In "A Serious Man," the frenzy with the neighbors exemplifies the tension between the orderly, rational world Larry tries to maintain and the chaotic, Dionysian forces that disrupt it. This tension mirrors the broader themes of the film, where the collective unconscious and the irrational play pivotal roles in shaping human experience and understanding. The Coen Brothers masterfully weave these elements together, creating a rich, thought-provoking narrative that resonates on multiple levels.
+
+> *Capital in the form of a corporation `absorbs` all nourishment from our heritage in a more efficient way than any human might*
+
+                    1. Food-Pessimism
+                                      \
+       2. Teeth-Beyond.Good & Evil -> 4. Enzymes-Collective.Unconscious -> 5. Absorption-Science -> 6. Nutrition-Morality
+                                      /
+                                      3. Gut-Robustness
+
+        1. Hunter.gatherer-Sensory
+                                  \
+            2. Peasant-Memory ->  4. Manufacturer-Intelligence -> 5. Energy-Capital -> 6. Transportation-Deployment
+                                  /
+                                  3. Farmer-Emotion
+
+```{figure} ../figures/blanche.png
+---
+height: 1
+width: 1
+---
+_Earlier layers of neuralnet_. Sensory, memory, emotion (biological), intelligence (social), and capital, deployment (personal)
+```
 
 Indeed, the failing TV signal reception in "A Serious Man" is another potent symbol of the unpredictable and chaotic elements that permeate Larry Gopnik's life, reinforcing the film's themes of randomness and the limits of human understanding.
 

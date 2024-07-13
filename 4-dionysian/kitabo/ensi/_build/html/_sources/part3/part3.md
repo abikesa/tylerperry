@@ -1,6 +1,10 @@
 (rr)=
 # Part 3: Apollo
 
+
+<iframe width="100%" height="600px" src="https://www.youtube.com/embed/GcFMKsg1QYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
                             1. Today
                                     \
                       2. History -> 4. GPT -> 5. Oracle -> 6. Behavioral-Patterns 
